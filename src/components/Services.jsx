@@ -10,7 +10,7 @@ import {
 import { ArrowRight, Sparkles } from "lucide-react";
 import { services } from "../data";
 
-import imgRegistration from "../assets/services/iec.png";
+import imgRegistration from "../assets/services/Iec.png";
 import imgModification from "../assets/services/Modification.png";
 import imgUpdate from "../assets/services/Apr.png";
 import imgIcegate from "../assets/services/Icrgate.png";
