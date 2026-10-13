@@ -8,7 +8,7 @@ import {
   BadgeCheck,
 } from "lucide-react";
 
-import directorImg from "../assets/director.png";
+import directorImg from "../assets/director1.jpeg";
 
 /* CTA kahan jaye: top wale form ki id */
 const CTA_HREF = "#top-form";

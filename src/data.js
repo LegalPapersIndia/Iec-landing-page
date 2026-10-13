@@ -130,10 +130,10 @@ export const pricingPlans = [
   {
     name: "Basic",
     desc: "For new importers and exporters who just need their IEC filed correctly.",
-    originalPrice: 1999,
+    originalPrice: 3900,
     discount: "50% off",
-    price: 999,
-    instantOff: 1000,
+    price: 1950,
+    instantOff: 1950,
     emi: false,
     highlight: false,
     features: [
@@ -145,10 +145,10 @@ export const pricingPlans = [
   {
     name: "Standard",
     desc: "Perfect for businesses that want to start shipping without customs surprises.",
-    originalPrice: 5999,
+    originalPrice: 17999,
     discount: "50% off",
-    price: 2999,
-    instantOff: 3000,
+    price: 8999,
+    instantOff: 9000,
     emi: false,
     highlight: true,
     features: [
@@ -162,10 +162,10 @@ export const pricingPlans = [
   {
     name: "Premium",
     desc: "Everything to start and scale your import-export business — from day one.",
-    originalPrice: 14999,
+    originalPrice: 49999,
     discount: "50% off",
-    price: 7499,
-    instantOff: 7500,
+    price: 24999,
+    instantOff: 25000,
     emi: true,
     highlight: false,
     features: [
